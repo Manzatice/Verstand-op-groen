@@ -47,4 +47,4 @@ Mockup voor nieuwe layout:
 Deze layout heeft de artikelen voor het grootste gedeelte in het midden maar laat ruimte over voor elementen aan een zijde. 
 De rechterkant is de gewenste locatie voor de extra items sinds er gelezen wordt van links naar rechts.
 
-![layout](/layout.png)
+![layout](/website_layout.png)
